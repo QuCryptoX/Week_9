@@ -15,3 +15,4 @@ include("func.jl");
 include("minEntropy.jl");
 include("isQuantumState.jl");
 include("eVec.jl");
+include("traceDist.jl");
